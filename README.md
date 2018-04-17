@@ -1,4 +1,5 @@
 # Express-Servers
+
 * [Express](http://expressjs.com/2x/guide.html)
 ![](assets/express.png) 
 * Instead of using [res.send()](https://expressjs.com/en/guide/routing.html), GET and the POST methods to the root of the app.
@@ -6,6 +7,6 @@
 * [EJS](http://www.embeddedjs.com/getting_started.html) Embedded JavaScript
 
 # Install
-npm init creates package.json
-npm install express --save
-npm install ejs --save
+* npm init creates package.json
+* npm install express --save
+* npm install ejs --save

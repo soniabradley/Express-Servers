@@ -1,0 +1,27 @@
+{
+  "name": "express-servers",
+  "version": "1.0.0",
+  "description": "* Instead of using [res.send()](https://expressjs.com/en/guide/routing.html), GET and the POST methods to the root of the app. * Use [res.render()](http://expressjs.com/2x/guide.html) to render HTML(from an EJS) file)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soniabradley/Express-Servers.git"
+  },
+  "keywords": [
+    "servers"
+  ],
+  "author": "soniabradley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soniabradley/Express-Servers/issues"
+  },
+  "homepage": "https://github.com/soniabradley/Express-Servers#readme",
+  "dependencies": {
+    "ejs": "^2.5.8",
+    "express": "^4.16.3"
+  }
+}

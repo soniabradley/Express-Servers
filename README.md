@@ -1,4 +1,5 @@
-# Express-Servers
+# Express-Servers 
+* A Lightweight Framework
 * [Express](http://expressjs.com/2x/guide.html) High performance, high class web development for Node.js
 ![](assets/express.png)
 * [EJS](http://ejs.co/) Embedded JavaScript, <%=...%>, enables dynamic templates.
@@ -17,6 +18,6 @@
 
 # Author
 
-*Sonia Bradley
+* Sonia Bradley
 
 

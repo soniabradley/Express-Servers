@@ -1,6 +1,5 @@
-# Express-Servers 
-* A Lightweight Framework
-* [Express](http://expressjs.com/2x/guide.html) High performance, high class web development for Node.js
+# Express Lightweight Framework
+* [Express](http://expressjs.com) Fast, unopinionated, minimalist web framework for Node.js.  
 ![](assets/express.png)
 * [EJS](http://ejs.co/) Embedded JavaScript, <%=...%>, enables dynamic templates.
 * Instead of using [res.send()](https://expressjs.com/en/guide/routing.html), GET and the POST methods to the root of the app.

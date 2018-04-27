@@ -14,7 +14,7 @@ app.get("/", function(req, res){
 // Create a new route, add to localhost:8080/fallinlovewith/express
 app.get("/fallinlovewith/:thing", function(req, res){
     var thing = req.params.thing;
-    // res.send("You fell in love with " + thing); Note: created love.ejs file.
+    // send back the contents of a file with res.render
     res.render("love.ejs", {thingVar: thing});
 });
 
